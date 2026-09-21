@@ -16,9 +16,9 @@ Academic Background
 
 Research Experience
 ======
-- **Research Intern**, [MINIMAX](https://www.minimaxi.com) (February 2025 - Present)
-- **Research Intern**, [Tencent WXG](https://www.tencent.com) (June 2024 - September 2024). Advised by Zifei Shan.
-- **Research Intern**, [Shanghai AI Lab](https://www.shlab.org.cn) (June 2023 - December 2023). Advised by Prof. Yu Cheng.
+- **Research Intern**, MINIMAX (February 2025 - Present)
+- **Research Intern**, Tencent WXG (June 2024 - September 2024). Advised by Zifei Shan.
+- **Research Intern**, Shanghai AI Lab (June 2023 - December 2023). Advised by Prof. Yu Cheng.
 
 Publications
 ======
@@ -57,4 +57,4 @@ Contact
 - E-mail: jliugi@connect.ust.hk
 - GitHub: https://github.com/Vicent0205
 - Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate
-- X (Twitter): https://twitter.com/junteng88716710
+- X (Twitter): https://x.com/junteng88716710
